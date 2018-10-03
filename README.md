@@ -1,1 +1,1 @@
-# Regisry
+# Registry
